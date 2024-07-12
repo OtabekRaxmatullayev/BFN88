@@ -1,0 +1,5 @@
+Civic  Honda  2020  20000
+Model S  Tesla  2021  80000
+Corolla  Toyota  2019  18000
+Mustang  Ford  2018  35000
+Camry  Toyota  2022  25000

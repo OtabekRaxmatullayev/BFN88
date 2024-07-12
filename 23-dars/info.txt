@@ -1,0 +1,4 @@
+ISMI: Otabek
+FAMILIYASI: Raxmatullyev
+YOSHI: 19
+MILLATI: O'zbek

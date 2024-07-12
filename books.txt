@@ -1,0 +1,4 @@
+Harry Potter and the Philosopher's Stone, J.K. Rowling, 1997, 25
+Harry Potter and the Chamber of Secrets, J.K. Rowling, 1998, 20
+Harry Potter and the Prisoner of Azkaban, J.K. Rowling, 1999, 22
+The Hobbit, J.R.R. Tolkien, 1937, 15

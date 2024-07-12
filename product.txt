@@ -1,0 +1,4 @@
+Olma, 5, 100
+Banan, 15, 50
+Apelsin, 8, 80
+Kivi, 12, 40

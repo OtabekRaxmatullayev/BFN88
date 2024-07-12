@@ -1,0 +1,4 @@
+Ali, Valiyev, engineer, 1000
+Botir, Usmonov, manager, 2000
+Gulnora, Karimova, manager, 2500
+Rustam, Abdullaev, developer, 1500

@@ -1,0 +1,5 @@
+1, Olma, 5, 10
+2, Banan, 15, 3
+1, Apelsin, 8, 15
+3, Kivi, 12, 2
+2, Shaftoli, 20, 4
